@@ -29,6 +29,14 @@ What I Learned:
 - Basic networking concepts in AWS
 - Manual web server deployment
 
-- Evidence:
+Evidence
 
-- 
+EC2 Instance Running (t3.micro)
+![EC2 Instance Running - AWS Console](screenshots/ec2-running.png)
+
+Custom Web Page (Apache)
+![First AWS Deploy - Custom Web Page](screenshots/web-page.png)
+
+> EC2 instance running Apache successfully serving a custom page: "Primeiro Deploy na AWS" with rocket icon 🚀.  
+> Project: DevOps in progress.
+
