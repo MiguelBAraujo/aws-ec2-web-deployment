@@ -32,11 +32,9 @@ What I Learned:
 Evidence
 
 EC2 Instance Running (t3.micro)
-![EC2 Instance Running - AWS Console](screenshots/ec2-running.png)
+<img width="1378" height="739" alt="Imagem da minha primeira instancia EC2 AWS" src="https://github.com/user-attachments/assets/5c9ec318-4715-4322-b05e-1caa6415386c" />
+
 
 Custom Web Page (Apache)
 ![First AWS Deploy - Custom Web Page](screenshots/web-page.png)
-
-> EC2 instance running Apache successfully serving a custom page: "Primeiro Deploy na AWS" with rocket icon 🚀.  
-> Project: DevOps in progress.
 
