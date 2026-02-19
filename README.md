@@ -34,7 +34,6 @@ Evidence
 EC2 Instance Running (t3.micro)
 <img width="1378" height="739" alt="Imagem da minha primeira instancia EC2 AWS" src="https://github.com/user-attachments/assets/5c9ec318-4715-4322-b05e-1caa6415386c" />
 
-
 Custom Web Page (Apache)
-![First AWS Deploy - Custom Web Page](screenshots/web-page.png)
+<img width="1919" height="1027" alt="Tela Projeto Junior AWS" src="https://github.com/user-attachments/assets/f6c60faf-1d43-4916-ac4c-a408e14d9737" />
 
